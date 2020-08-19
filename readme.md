@@ -6,3 +6,5 @@ este é um arquivo para teste do git
  
 linha nova
 
+outra linha
+
